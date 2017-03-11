@@ -7,7 +7,8 @@ In this assignment you will be using println to create formatted console output,
 3. Once you start coding make sure you commit and push/sync after adding/revising each new functional code chunk. Your commits have to be small and take place often.
 4. Hitting the play button in Processing will run your program. Be sure to run each part of the program before moving on to the next.
 
-Tio: Using escape characters is not required but may help you
+To: Using escape characters is not required but may help you
+
 \” - to print a quotation mark
 
 \n - to create a new line
