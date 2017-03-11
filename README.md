@@ -9,8 +9,11 @@ In this assignment you will be using println to create formatted console output,
 
 Tio: Using escape characters is not required but may help you
 \” - to print a quotation mark
+
 \n - to create a new line
+
 \t - to tab 3 spaces
+
 \\ - to print a backslash - this is needed for some ASCII art
 
 ## Part 1
