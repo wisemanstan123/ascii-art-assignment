@@ -7,24 +7,22 @@ In this assignment you will be using println to create formatted console output,
 3. Once you start coding make sure you commit and push/sync after adding/revising a new functional code chunk. Your commits have to be small and often.
 4. Hitting the play button will run your file.  Be sure to run each part of the assignment before moving on to the next.
 
-Reminder: Using escape characters is not required but may help you:
-        \”         - to print a quotation mark
-        \n         - to create a new line
-        \t         - to tab 3 spaces
-        \\         - to print a backslash - this is needed for some ASCII art
+Reminder: Using escape characters is not required but may help you
+\” - to print a quotation mark
+\n - to create a new line
+\t - to tab 3 spaces
+\\ - to print a backslash - this is needed for some ASCII art
 
 ## Part 1
 Write code that prints the first six letters of your first and/or last names so that it looks like the following example.  When ran, the letters must line up properly.
 
-> BBBB    EEEE     A    TTTTT  RRRR    III    X    X
-
-> B   B   E       A A     T    R   R    I      X  X
-
-> B   B   E      A   A    T    R   R    I       XX
-> BBBB    EEEE   AAAAA    T    RRRR     I       XX
-> B   B   E      A   A    T    R   R    I      X  X
-> B   B   E      A   A    T    R    R   I     X    X
-> BBBB    EEEE   A   A    T    R    R  III   X      X
+BBBB    EEEE     A    TTTTT  RRRR    III    X    X
+B   B   E       A A     T    R   R    I      X  X
+B   B   E      A   A    T    R   R    I       XX
+BBBB    EEEE   AAAAA    T    RRRR     I       XX
+B   B   E      A   A    T    R   R    I      X  X
+B   B   E      A   A    T    R    R   I     X    X
+BBBB    EEEE   A   A    T    R    R  III   X      X
 
 ## Part 2
 What is ASCII art?  ASCII is the set of symbols (letters, punctuation marks and numbers) that make up the English language.  In the computer world, each of these ASCII symbols is assigned a number so that we can tell the computer what to print in binary.  For example: the capital letter P is represented by the number 80 which is 01010000 in binary. You do not need to know about binary or how ASCII works,... yet.  
