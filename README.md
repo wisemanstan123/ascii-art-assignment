@@ -17,7 +17,9 @@ Reminder: Using escape characters is not required but may help you:
 Write code that prints the first six letters of your first and/or last names so that it looks like the following example.  When ran, the letters must line up properly.
 
 > BBBB    EEEE     A    TTTTT  RRRR    III    X    X
+
 > B   B   E       A A     T    R   R    I      X  X
+
 > B   B   E      A   A    T    R   R    I       XX
 > BBBB    EEEE   AAAAA    T    RRRR     I       XX
 > B   B   E      A   A    T    R   R    I      X  X
