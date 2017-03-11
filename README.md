@@ -16,7 +16,7 @@ Reminder: Using escape characters is not required but may help you
 ## Part 1
 Write code that prints the first six letters of your first and/or last names so that it looks like the following example.  When ran, the letters must line up properly.
 
-!(images/beatrix.png)
+![](images/beatrix.png)
 
 ## Part 2
 What is ASCII art?  ASCII is the set of symbols (letters, punctuation marks and numbers) that make up the English language.  In the computer world, each of these ASCII symbols is assigned a number so that we can tell the computer what to print in binary.  For example: the capital letter P is represented by the number 80 which is 01010000 in binary. You do not need to know about binary or how ASCII works,... yet.  
