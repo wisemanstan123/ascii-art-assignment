@@ -1,4 +1,4 @@
-# processing-assignment-1
+# Processing Assignment 1: Simple console output
 
 In this assignment you will be using println to create formatted console output, including ASCII art.
 
