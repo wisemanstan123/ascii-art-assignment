@@ -53,3 +53,4 @@ Go to the site http://www.chris.com/ascii/ and look at some of the examples of A
 
 ## Handing in your assignment
 When you are done submit your assignment for marking by submitting a new Issue tagged with @mariopineda
+![](images/submitting-assignment.gif)
