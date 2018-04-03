@@ -2,6 +2,7 @@
 
 In this assignment you will be using println to create formatted console output, including ASCII art.
 
+## Set up
 1. If you have not yet installed Processing on your Raspberry Pi you can do so by runing the following command in the terminal:  ```curl https://processing.org/download/install-arm.sh | sudo sh```
 2. Fork the assignment.
 3. Create an emtpy file for your code called ``ascii-art-assignment.pde``  if you are using Processing or ``ascii-art-assignment.java`` if you are using java. 
@@ -36,7 +37,7 @@ To: Using escape characters is not required but may help you
 \\\ - to print a backslash - this is needed for some ASCII art
 
 ## Part 1
-Write code that console prints the first six letters of your first and/or last names so that it looks like the following example.  When ran, the letters must line up properly.
+Using the ```print`` (reference for ```print```: https://processing.org/reference/print_.html) and ``println`` (reference for ```println```: https://processing.org/reference/println_.html) constructs write code that console prints the first six letters of your first and/or last names so that it looks like the following example.  When ran, the letters must line up properly.
 
 ![](images/beatrix.png)
 
