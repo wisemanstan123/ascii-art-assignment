@@ -50,3 +50,6 @@ What is ASCII art? ASCII is the set of symbols (letters, punctuation marks and n
 Go to the site http://www.chris.com/ascii/ and look at some of the examples of ASCII art.  Then, write code to print a simple work of ASCII art. You can find one and copy it or make it up on your own. Your art should take between 10-15 and lines of code.  The code from Part 2 should be appended to the code file from Part 1. 
 
 ![](images/ASCIIStarwars.jpg)
+
+## Handing in your assignment
+When you are done submit your assignment for marking by submitting a new Issue tagged with @mariopineda
