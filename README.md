@@ -24,8 +24,16 @@ void draw() {
 
 }
 ```
-5. Commit and push/sync after adding/revising each new functional code chunk. Test run your program before each commit to make sure it runs and behaves the way it is supposed to.
 
+## Part 1
+Using the ```print``` (reference for ```print```: https://processing.org/reference/print_.html) and ``println`` (reference for ```println```: https://processing.org/reference/println_.html) constructs write code that console prints the first six letters of your first and/or last names so that it looks like the following example.  When ran, the letters must line up properly.
+
+![](images/beatrix.png)
+
+### Remember!
+Commit and push/sync after adding/revising each new functional code chunk. Test run your program before each commit to make sure it runs and behaves the way it is supposed to.
+
+### Tip
 To: Using escape characters is not required but may help you
 
 \” - to print a quotation mark
@@ -35,11 +43,6 @@ To: Using escape characters is not required but may help you
 \t - to tab 3 spaces
 
 \\\ - to print a backslash - this is needed for some ASCII art
-
-## Part 1
-Using the ```print``` (reference for ```print```: https://processing.org/reference/print_.html) and ``println`` (reference for ```println```: https://processing.org/reference/println_.html) constructs write code that console prints the first six letters of your first and/or last names so that it looks like the following example.  When ran, the letters must line up properly.
-
-![](images/beatrix.png)
 
 ## Part 2
 What is ASCII art? ASCII is the set of symbols (letters, punctuation marks and numbers) that make up the English language.  In the computer world, each of these ASCII symbols is assigned a number so that we can tell the computer what to print in binary.  For example: the capital letter P is represented by the number 80 which is 01010000 in binary. You do not need to know about binary or how ASCII works,... yet.  
