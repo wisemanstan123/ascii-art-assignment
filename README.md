@@ -6,7 +6,6 @@ In this assignment you will be using println to create formatted console output,
 ```
 curl https://processing.org/download/install-arm.sh | sudo sh
 ```
-
 1. After accepting the assignment through GitHub clone your repository so you can work on it locally.
 1. Create an emtpy file for your code called ``ascii-art-assignment.pde``  if you are using Processing or ``ascii-art-assignment.java`` if you are using java. 
 1. Commit and push/sync after adding/revising each new functional code chunk. Test run your program before each commit to make sure it runs and behaves the way it is supposed to.
