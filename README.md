@@ -37,7 +37,7 @@ To: Using escape characters is not required but may help you
 \\\ - to print a backslash - this is needed for some ASCII art
 
 ## Part 1
-Using the ```print`` (reference for ```print```: https://processing.org/reference/print_.html) and ``println`` (reference for ```println```: https://processing.org/reference/println_.html) constructs write code that console prints the first six letters of your first and/or last names so that it looks like the following example.  When ran, the letters must line up properly.
+Using the ```print``` (reference for ```print```: https://processing.org/reference/print_.html) and ``println`` (reference for ```println```: https://processing.org/reference/println_.html) constructs write code that console prints the first six letters of your first and/or last names so that it looks like the following example.  When ran, the letters must line up properly.
 
 ![](images/beatrix.png)
 
