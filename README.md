@@ -2,9 +2,14 @@
 
 In this assignment you will be using println to create formatted console output, including ASCII art.
 
+1. If you have not yet installed Processing on your Raspberry Pi you can do so by runing the following command in the terminal: 
+```
+curl https://processing.org/download/install-arm.sh | sudo sh
+```
+
 1. After accepting the assignment through GitHub clone your repository so you can work on it locally.
-2. Create an emtpy file for your code called ``ascii-art-assignment.pde``  if you are using Processing or ``ascii-art-assignment.java`` if you are using java. 
-3. Commit and push/sync after adding/revising each new functional code chunk. Test run your program before each commit to make sure it runs and behaves the way it is supposed to.
+1. Create an emtpy file for your code called ``ascii-art-assignment.pde``  if you are using Processing or ``ascii-art-assignment.java`` if you are using java. 
+1. Commit and push/sync after adding/revising each new functional code chunk. Test run your program before each commit to make sure it runs and behaves the way it is supposed to.
 
 To: Using escape characters is not required but may help you
 
